@@ -9,11 +9,11 @@ import os
 import requests
 import threading
 
-DB_USERNAME = "postgres"
-DB_PASSWORD = "ABMcobol729"
-DB_HOST = "74.48.132.213"
+DB_USERNAME = "user"
+DB_PASSWORD = "pass"
+DB_HOST = "host"
 DB_PORT = "5432"
-DB_NAME = "exchange"
+DB_NAME = "db"
 
 headers = {
     "sec-ch-ua": "\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Brave\";v=\"120\"",
